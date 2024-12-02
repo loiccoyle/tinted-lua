@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Spacemacs scheme by Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
 
 local M = {}

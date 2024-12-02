@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- standardized-light scheme by ali (https://github.com/ali-githb/base16-standardized-scheme)
 
 local M = {}

@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Everforest Dark Hard scheme by Sainnhe Park (https://github.com/sainnhe)
 
 local M = {}

@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Ayu Dark scheme by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
 
 local M = {}

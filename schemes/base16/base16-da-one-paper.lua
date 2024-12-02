@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Da One Paper scheme by NNB (https://github.com/NNBnh)
 
 local M = {}

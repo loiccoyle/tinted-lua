@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Black Metal (Immortal) scheme by metalelf0 (https://github.com/metalelf0)
 
 local M = {}

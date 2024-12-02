@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base24-lua (https://github.com/loiccoyle/tinted-lua)
 -- Catppuccin Mocha scheme by https://github.com/catppuccin/catppuccin
 
 local M = {}

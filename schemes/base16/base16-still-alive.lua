@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Still Alive scheme by Derrick McKee (derrick.mckee@gmail.com)
 
 local M = {}

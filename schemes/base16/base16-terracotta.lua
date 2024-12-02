@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Terracotta scheme by Alexander Rossell Hayes (https://github.com/rossellhayes)
 
 local M = {}

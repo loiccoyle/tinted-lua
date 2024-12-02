@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- DanQing Light scheme by Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
 
 local M = {}

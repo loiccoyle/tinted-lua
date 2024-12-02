@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Outrun Dark scheme by Hugo Delahousse (http://github.com/hugodelahousse/)
 
 local M = {}

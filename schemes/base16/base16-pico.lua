@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Pico scheme by PICO-8 (http://www.lexaloffle.com/pico-8.php)
 
 local M = {}

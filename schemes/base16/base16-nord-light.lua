@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Nord Light scheme by threddast, based on fuxialexander&#39;s doom-nord-light-theme (Doom Emacs)
 
 local M = {}

@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Precious Dark Fifteen scheme by 4lex4 &lt;4lex49@zoho.com&gt;
 
 local M = {}
