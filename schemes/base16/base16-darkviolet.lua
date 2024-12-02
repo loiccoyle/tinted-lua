@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Dark Violet scheme by ruler501 (https://github.com/ruler501/base16-darkviolet)
 
 local M = {}

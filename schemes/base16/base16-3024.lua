@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- 3024 scheme by Jan T. Sott (http://github.com/idleberg)
 
 local M = {}

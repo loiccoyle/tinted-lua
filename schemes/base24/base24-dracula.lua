@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base24-lua (https://github.com/loiccoyle/tinted-lua)
 -- Dracula scheme by FredHappyface (https://github.com/fredHappyface)
 
 local M = {}

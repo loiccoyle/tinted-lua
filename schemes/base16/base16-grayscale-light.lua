@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Grayscale Light scheme by Alexandre Gavioli (https://github.com/Alexx2/)
 
 local M = {}

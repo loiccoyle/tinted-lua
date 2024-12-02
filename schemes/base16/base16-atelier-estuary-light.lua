@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Atelier Estuary Light scheme by Bram de Haan (http://atelierbramdehaan.nl)
 
 local M = {}

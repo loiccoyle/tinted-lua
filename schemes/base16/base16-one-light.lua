@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- One Light scheme by Daniel Pfeifer (http://github.com/purpleKarrot)
 
 local M = {}

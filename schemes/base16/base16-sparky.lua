@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Sparky scheme by Leila Sother (https://github.com/mixcoac)
 
 local M = {}

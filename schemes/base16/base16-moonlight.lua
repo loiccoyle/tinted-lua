@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Moonlight scheme by Jeremy Swinarton (https://github.com/jswinarton)
 
 local M = {}

@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Darktooth scheme by Jason Milkins (https://github.com/jasonm23)
 
 local M = {}

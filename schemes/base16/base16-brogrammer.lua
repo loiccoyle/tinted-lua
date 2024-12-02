@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Brogrammer scheme by Vik Ramanujam (http://github.com/piggyslasher)
 
 local M = {}

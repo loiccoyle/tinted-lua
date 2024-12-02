@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Windows High Contrast Light scheme by Fergus Collins (https://github.com/C-Fergus)
 
 local M = {}

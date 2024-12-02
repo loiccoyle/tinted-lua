@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Sakura scheme by Misterio77 (http://github.com/Misterio77)
 
 local M = {}

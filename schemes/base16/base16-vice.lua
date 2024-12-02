@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- vice scheme by Thomas Leon Highbaugh thighbaugh@zoho.com
 
 local M = {}

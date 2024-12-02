@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- pinky scheme by Benjamin (https://github.com/b3nj5m1n)
 
 local M = {}

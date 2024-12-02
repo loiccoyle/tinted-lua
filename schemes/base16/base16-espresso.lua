@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Espresso scheme by Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
 
 local M = {}

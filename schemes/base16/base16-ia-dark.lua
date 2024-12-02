@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- iA Dark scheme by iA Inc. (modified by aramisgithub)
 
 local M = {}

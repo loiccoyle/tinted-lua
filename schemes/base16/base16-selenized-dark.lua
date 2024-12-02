@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- selenized-dark scheme by Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
 
 local M = {}

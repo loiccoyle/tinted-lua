@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- OneDark Dark scheme by olimorris (https://github.com/olimorris)
 
 local M = {}

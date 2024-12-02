@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- Brush Trees Dark scheme by Abraham White &lt;abelincoln.white@gmail.com&gt;
 
 local M = {}

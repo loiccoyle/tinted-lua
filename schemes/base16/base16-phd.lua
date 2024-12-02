@@ -1,4 +1,4 @@
--- base24-lua (https://github.com/loiccoyle/base24-lua)
+-- base16-lua (https://github.com/loiccoyle/tinted-lua)
 -- PhD scheme by Hennig Hasemann (http://leetless.de/vim.html)
 
 local M = {}
