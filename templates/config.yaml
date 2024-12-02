@@ -1,0 +1,9 @@
+base16:
+  extension: .lua
+  output: schemes/base16
+  supported-systems: [base16]
+
+base24:
+  extension: .lua
+  output: schemes/base24
+  supported-systems: [base24]
