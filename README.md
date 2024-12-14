@@ -13,7 +13,7 @@ This assumes [`lazy.nvim`](https://github.com/folke/lazy.nvim) is used to manage
 
 Copy over a [`base24` color scheme file](schemes/base24) to `~/.config/nvim/lua/config/colors-base24.lua`
 
-In `~/.config/nvim/lua/plugins/cattpuccin.lua`:
+In `~/.config/nvim/lua/plugins/catppuccin.lua`:
 
 ```lua
 return {
