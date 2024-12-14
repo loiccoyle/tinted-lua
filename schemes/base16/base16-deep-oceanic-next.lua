@@ -1,21 +1,21 @@
 -- base16-lua (https://github.com/loiccoyle/tinted-lua)
--- Deep Oceanic Next scheme by spearkkk (https://github.com/spearkkk/deep-oceanic-next)
+-- Deep Oceanic Next scheme by spearkkk (https://github.com/spearkkk)
 
 local M = {}
-M.base00 = "#003b46"
-M.base01 = "#004f5e"
-M.base02 = "#006374"
-M.base03 = "#007a8a"
+M.base00 = "#001c1f"
+M.base01 = "#002931"
+M.base02 = "#003640"
+M.base03 = "#004852"
 M.base04 = "#0093a3"
-M.base05 = "#dce3e8"
-M.base06 = "#e6ebf0"
-M.base07 = "#f0f5f5"
-M.base08 = "#e6454b"
-M.base09 = "#ff6a4b"
-M.base0A = "#ffcc66"
-M.base0B = "#85b57a"
-M.base0C = "#4da6a6"
-M.base0D = "#3a82e6"
-M.base0E = "#8c4de6"
-M.base0F = "#e673a3"
+M.base05 = "#d4e1e8"
+M.base06 = "#e0e9ef"
+M.base07 = "#f2f7f9"
+M.base08 = "#d3464d"
+M.base09 = "#e37552"
+M.base0A = "#f3b863"
+M.base0B = "#63b784"
+M.base0C = "#4fb7ae"
+M.base0D = "#568ccf"
+M.base0E = "#8b66d6"
+M.base0F = "#d0658e"
 return M
