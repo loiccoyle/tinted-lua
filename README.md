@@ -11,7 +11,7 @@ Modifying the [`cattpuccin`](https://github.com/catppuccin/nvim) color palette t
 
 This assumes [`lazy.nvim`](https://github.com/folke/lazy.nvim) is used to manage plugin.
 
-Copy over a [`base24` color scheme file](schemes/base25) to `~/.config/nvim/lua/config/colors-base24.lua`
+Copy over a [`base24` color scheme file](schemes/base24) to `~/.config/nvim/lua/config/colors-base24.lua`
 
 In `~/.config/nvim/lua/plugins/cattpuccin.lua`:
 
