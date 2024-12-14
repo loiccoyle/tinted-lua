@@ -7,7 +7,7 @@
 
 ## Example usage
 
-Modifying the [`cattpuccin`](https://github.com/catppuccin/nvim) color palette to be `base24` compatible.
+**Modifying the [`cattpuccin`](https://github.com/catppuccin/nvim) color palette to be `base24` compatible.**
 
 This assumes [`lazy.nvim`](https://github.com/folke/lazy.nvim) is used to manage plugin.
 
